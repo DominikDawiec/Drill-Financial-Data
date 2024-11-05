@@ -1,0 +1,563 @@
+﻿Miesiac,Centrum kosztów,Konto,Nazwa konta,Opis,Koszty
+2024-02-01 00:00:00,Dział Finansów,411-01,Koszty materiałów biurowych,Koszt zużycia materiałów biurowych,27
+2024-10-01 00:00:00,Dział Finansów,411-01,Koszty materiałów biurowych,Koszt zużycia materiałów biurowych,75
+2024-03-01 00:00:00,Dział Finansów,411-01,Koszty materiałów biurowych,Koszt zużycia materiałów biurowych,160
+2024-08-01 00:00:00,Dział Finansów,411-01,Koszty materiałów biurowych,Akta osobowe,185
+2024-01-01 00:00:00,Dział Finansów,411-07,Koszty szkoleń i operacyjne,Szkolenia,38
+2024-10-01 00:00:00,Dział Finansów,411-11,Koszty akcesoriów komputerowych,Akcesoria komputerowe,18
+2024-05-01 00:00:00,Dział Finansów,411-11,Koszty akcesoriów komputerowych,Akcesoria komputerowe,1552
+2024-06-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,24
+2024-02-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,199
+2024-02-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,483
+2024-04-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,490
+2024-08-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,539
+2024-06-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,1157
+2024-10-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,1284
+2024-05-01 00:00:00,Dział Finansów,411-13,Koszty tonerów i sprzętu biurowego,Toner do drukarki,1555
+2024-06-01 00:00:00,Dział Finansów,412-05,Opłaty za media,Opłaty za media,207
+2024-07-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,10
+2024-04-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,11
+2024-02-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,12
+2024-10-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,12
+2024-10-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,13
+2024-03-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,15
+2024-02-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,16
+2024-03-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,20
+2024-11-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,21
+2024-11-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,24
+2024-10-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,32
+2024-10-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,49
+2024-02-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,56
+2024-05-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,57
+2024-02-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,72
+2024-02-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,77
+2024-07-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,77
+2024-07-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,94
+2024-02-01 00:00:00,Dział Finansów,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe i kurierskie,99
+2024-01-01 00:00:00,Dział Finansów,420-07,Koszty usług prawnych,Usługa prawna,1923
+2024-02-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,458
+2024-09-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,465
+2024-12-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,469
+2024-07-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,472
+2024-06-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,481
+2024-05-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,485
+2024-03-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,583
+2024-11-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,612
+2024-04-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Kategoria kosztu: Usługi księgowe/finansowe,639
+2024-10-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,656
+2024-01-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,755
+2024-08-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,813
+2024-04-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługa informatyczna dla firmy - system do księgowości,18604
+2024-08-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,18853
+2024-06-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,21649
+2024-07-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,21674
+2024-09-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,22896
+2024-11-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,24228
+2024-10-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,26664
+2024-05-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,31377
+2024-12-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,36143
+2024-03-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,36544
+2024-02-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,39125
+2024-01-01 00:00:00,Dział Finansów,420-09,Koszty usług księgowych/finansowych,Usługi księgowe/finansowe,50525
+2024-09-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,13056
+2024-05-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,13127
+2024-04-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,14939
+2024-10-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,15266
+2024-08-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,15695
+2024-02-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,15866
+2024-11-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,15997
+2024-03-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,16589
+2024-01-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,16734
+2024-06-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,17106
+2024-07-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,17529
+2024-12-01 00:00:00,Dział Finansów,420-16,Koszty usług doradczych i operacyjnych,Koszt usług doradczych,18754
+2024-06-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,118
+2024-03-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,121
+2024-07-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,124
+2024-10-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,129
+2024-01-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,131
+2024-02-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,137
+2024-08-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,150
+2024-11-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,154
+2024-05-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,157
+2024-05-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,180
+2024-12-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,187
+2024-07-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,190
+2024-09-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,192
+2024-10-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,200
+2024-11-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,204
+2024-08-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,217
+2024-09-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,226
+2024-04-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,230
+2024-12-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,231
+2024-04-01 00:00:00,Dział Finansów,420-20,Koszty usług IT i telekomunikacyjnych,Narzędzia Informatyczne,250
+2024-09-01 00:00:00,Dział Finansów,420-22,Koszty transportu,Koszt transportu,10
+2024-06-01 00:00:00,Dział Finansów,420-27,Koszty usług serwisowych/naprawczych,Usługi serwisowe/naprawcze,159
+2024-10-01 00:00:00,Dział Finansów,420-29,Koszty usług przewozowych,Usługa przewozowa ,2
+2024-01-01 00:00:00,Dział Finansów,420-29,Koszty usług przewozowych,Usługi wynajmu pojazdów,13
+2024-02-01 00:00:00,Dział Finansów,420-29,Koszty usług przewozowych,Usługi wynajmu pojazdów,17
+2024-01-01 00:00:00,Dział Finansów,420-29,Koszty usług przewozowych,Usługi wynajmu pojazdów,18
+2024-01-01 00:00:00,Dział Finansów,420-29,Koszty usług przewozowych,Usługi wynajmu pojazdów,67
+2024-09-01 00:00:00,Dział Finansów,420-31,Koszty usług szkoleniowych i konferencyjnych,Usługami szkoleniowe,255
+2024-06-01 00:00:00,Dział Finansów,420-35,Koszty usług gastronomicznych,Usługi gastronomiczne,457
+2024-08-01 00:00:00,Dział Finansów,420-88,Koszty usług tłumaczeń,Usługa tłumaczenia ,137
+2024-07-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,5689
+2024-09-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,5774
+2024-01-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,6507
+2024-08-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,6641
+2024-11-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,6676
+2024-03-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,6718
+2024-02-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,6748
+2024-06-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,6901
+2024-05-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,7686
+2024-10-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,8229
+2024-04-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,8682
+2024-12-01 00:00:00,Dział Finansów,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,11972
+2024-01-01 00:00:00,Dział HR,411-13,Koszty tonerów i sprzętu biurowego,Sprzęt biurowy,487
+2024-02-01 00:00:00,Dział HR,420-04,Koszty usług pocztowych i kurierskich,Koszt usług kurierskich,49
+2024-11-01 00:00:00,Dział HR,420-08,Koszty usług konsultingowych,Usługi konsultacyjne,204
+2024-09-01 00:00:00,Dział HR,420-08,Koszty usług konsultingowych,Usługi konsultacyjne,41484
+2024-03-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usług reklamowe,12634
+2024-01-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usług reklamowe,17
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usług reklamowe,23
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi marketingowe online,26
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi informatyczne,45
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi marketingowe,53
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi reklamowe,103
+2024-12-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi LinkedIn,130
+2024-12-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi HR/rekrutacyjne,179
+2024-08-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,708
+2024-01-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,771
+2024-04-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,836
+2024-07-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,846
+2024-01-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,855
+2024-10-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,869
+2024-06-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,870
+2024-05-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,872
+2024-04-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Zakup nowego sprzętu komputerowego,928
+2024-03-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszty marketingu,1003
+2024-05-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszty marketingu,1031
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszty marketingu,1103
+2024-03-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszty marketingu,1141
+2024-08-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,1180
+2024-09-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,1340
+2024-06-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,1672
+2024-09-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszt pozyskania pracownika.,1704
+2024-07-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,1806
+2024-12-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszt usług HR/rekrutacyjnych,2358
+2024-09-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Remont i konserwacja,2685
+2024-08-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Remont i konserwacja,2771
+2024-10-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Remont i konserwacja,2984
+2024-04-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi rekrutacyjne,5358
+2024-05-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi rekrutacyjne,8691
+2024-08-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszty operacyjne,9139
+2024-07-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Rozwój technologii,9271
+2024-03-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi B2B,9629
+2024-10-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszt usług rekrutacyjnych HR,9709
+2024-11-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Koszt rejestracj usługi,9762
+2024-12-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Materiały biurowe,12776
+2024-08-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi rekrutacyjne,13330
+2024-01-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi programistyczne (B2B),13705
+2024-11-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi rekrutacyjne,13933
+2024-02-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi programistyczne (B2B),15536
+2024-09-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi programistyczne (B2B),16748
+2024-06-01 00:00:00,Dział HR,420-16,Koszty usług doradczych i operacyjnych,Usługi rekrutacyjne,17271
+2024-01-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,170
+2024-03-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Koszt usługi elektronicznej/narzędzi IT,173
+2024-10-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,342
+2024-10-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,343
+2024-01-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Ogłoszenie oferty pracy,375
+2024-03-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Ogłoszenie oferty pracy,467
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Ogłoszenie oferty pracy,477
+2024-03-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Ogłoszenie oferty pracy,499
+2024-10-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,521
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,534
+2024-12-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,536
+2024-10-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,542
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,566
+2024-03-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,569
+2024-03-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,570
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,575
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Usługi IT,591
+2024-04-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,758
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,764
+2024-01-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Usługi IT,772
+2024-12-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Koszt usługi elektronicznej/narzędzi IT.,804
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Usługi IT,812
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,818
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Usługi IT,880
+2024-07-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Usługi IT,955
+2024-02-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,1168
+2024-09-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,1658
+2024-07-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Materiały biurowe,3875
+2024-12-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Materiały biurowe,3885
+2024-11-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Materiały biurowe,4367
+2024-10-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Materiały biurowe,4370
+2024-04-01 00:00:00,Dział HR,420-18,Koszty abonamentów i reklam online,Materiały biurowe,4617
+2024-04-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Materiały biurowe,531
+2024-04-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Materiały biurowe,523
+2024-04-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Pośrednictwo w zatrudnieniu,466
+2024-04-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Koszt subskrypcji LinkedIn,436
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Usługi elektroniczne,230
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Abonament internetowy,103
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Abonament LinkedIn,152
+2024-03-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Abonament LinkedIn,227
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Usługi telekomunikacyjne,236
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Usługa internetowa,239
+2024-03-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Koszty marketingu online,290
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Koszt subskrypcji usługi elektronicznej LinkedIn,337
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Inwestycje w rozwój produktów,381
+2024-12-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Usługi internetowe,393
+2024-02-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Materiały biurowe,2143
+2024-01-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Szkolenia pracowników.,2339
+2024-03-01 00:00:00,Dział HR,420-20,Koszty usług IT i telekomunikacyjnych,Paliwo,2572
+2024-02-01 00:00:00,Dział HR,420-26,Koszty produkcji i druku materiałów reklam.,Druk materiałów reklamowych,614
+2024-02-01 00:00:00,Dział HR,420-31,Koszty usług szkoleniowych i konferencyjnych,Wydatki na rozwój technologiczny,2480
+2024-02-01 00:00:00,Dział HR,420-35,Koszty usług gastronomicznych,Koszt usług gastronomicznych,48
+2024-02-01 00:00:00,Dział HR,420-35,Koszty usług gastronomicznych,Koszt usług gastronomicznych,317
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,110
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,154
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,188
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,203
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,325
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,405
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,420
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,461
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,484
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,496
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,639
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,707
+2024-10-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,771
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,816
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,824
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,831
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,885
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1200
+2024-12-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1252
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1281
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1329
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1336
+2024-11-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1392
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1461
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,1624
+2024-09-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,3490
+2024-10-01 00:00:00,Dział HR,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B) ,4191
+2024-10-01 00:00:00,Dział HR,420-88,Koszty usług tłumaczeń,Usługi programistyczne (B2B) ,16
+2024-05-01 00:00:00,Dział HR,420-99,Koszty narzędzi IT,Zakup voucherów.,20
+2024-01-01 00:00:00,Dział HR,420-99,Koszty narzędzi IT,Zakup voucherów.,299
+2024-05-01 00:00:00,Dział HR,420-99,Koszty narzędzi IT,Zakup voucherów.,376
+2024-03-01 00:00:00,Dział HR,420-99,Koszty narzędzi IT,Zakup voucherów.,422
+2024-08-01 00:00:00,Dział HR,430-08,Koszty zakwaterowania,Zakwaterowanie,115
+2024-01-01 00:00:00,Dział HR,430-99,Koszty abonamentów telekomunikacyjnych,Koszt abonamentu/planu usług telekomunikacyjnych.,105
+2024-05-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,4738
+2024-04-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,12039
+2024-05-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,17453
+2024-03-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,27273
+2024-02-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,30048
+2024-09-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,30281
+2024-10-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,30585
+2024-12-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,31442
+2024-06-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,33565
+2024-07-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,34076
+2024-01-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,38720
+2024-08-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,39074
+2024-11-01 00:00:00,Dział HR,440-01,Koszty wynagrodzeń,Wynagrodzenia pracowników,64597
+2024-02-01 00:00:00,Dział HR,460-01,Koszty delegacji,Delegacja służbowa,101
+2024-10-01 00:00:00,Dział HR,460-01,Koszty delegacji,Delegacja służbowa,107
+2024-10-01 00:00:00,Dział HR,460-01,Koszty delegacji,Delegacja służbowa,111
+2024-01-01 00:00:00,Dział HR,460-01,Koszty delegacji,Delegacja służbowa,127
+2024-02-01 00:00:00,Dział HR,460-01,Koszty delegacji,Delegacja służbowa,521
+2024-10-01 00:00:00,Dział HR,460-01,Koszty delegacji,Delegacja służbowa,584
+2024-05-01 00:00:00,Dział HR,460-04,Koszty usług IT,Opłata za usługi informatyczne,903
+2024-10-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,22
+2024-11-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,23
+2024-05-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,24
+2024-03-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,25
+2024-02-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,27
+2024-09-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,28
+2024-07-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,29
+2024-04-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakup materiałów biurowych,29
+2024-12-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Koszt usługi wynajmu samochodu,31
+2024-12-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Koszty operacyjne,36
+2024-01-01 00:00:00,Dział Marketingu,411-07,Koszty szkoleń i operacyjne,Zakupy marketingowe,168
+2024-11-01 00:00:00,Dział Marketingu,411-11,Koszty akcesoriów komputerowych,Akcesoria komputerowe,175
+2024-02-01 00:00:00,Dział Marketingu,411-15,Koszty usług marketingowych,Usługi marketingowe,329
+2024-02-01 00:00:00,Dział Marketingu,411-15,Koszty usług marketingowych,Usługi marketingowe,843
+2024-10-01 00:00:00,Dział Marketingu,420-04,Koszty usług pocztowych i kurierskich,Kurier - opłaty pocztowe,20
+2024-07-01 00:00:00,Dział Marketingu,420-04,Koszty usług pocztowych i kurierskich,Koszt dostawy kurierskiej,80
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt związany z usługami marketingowymi,53
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt abonamentu,56
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,56
+2024-01-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,56
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,64
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,138
+2024-07-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,247
+2024-09-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,256
+2024-08-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,260
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,264
+2024-11-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,267
+2024-04-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,308
+2024-06-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,310
+2024-05-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,325
+2024-10-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,327
+2024-03-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,413
+2024-08-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,660
+2024-02-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Przedmioty biurowe,886
+2024-02-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,1305
+2024-07-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,1573
+2024-06-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,2074
+2024-09-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,2368
+2024-01-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,2426
+2024-03-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,2845
+2024-04-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,2893
+2024-11-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,2931
+2024-06-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3016
+2024-03-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,3256
+2024-03-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,3279
+2024-01-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,3333
+2024-10-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3472
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe,3593
+2024-05-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3679
+2024-05-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3770
+2024-04-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3876
+2024-04-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3895
+2024-10-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3926
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3928
+2024-10-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,3996
+2024-07-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi copywritingu,4022
+2024-04-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługa marketingowa,4368
+2024-11-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,4913
+2024-09-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,5265
+2024-01-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,5909
+2024-08-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,6231
+2024-08-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,7020
+2024-03-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,7171
+2024-01-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Koszt kampanii Google Ads,7192
+2024-11-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,7577
+2024-10-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,7704
+2024-02-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,7889
+2024-09-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,8054
+2024-01-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,8904
+2024-06-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,8992
+2024-07-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,9517
+2024-03-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,9563
+2024-10-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,13739
+2024-12-01 00:00:00,Dział Marketingu,420-12,Koszty usług marketingowych,Usługi marketingowe B2B,14656
+2024-03-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklamy na Facebooku,144
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,151
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi e-marketingu,156
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,158
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,202
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,210
+2024-06-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,225
+2024-11-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,234
+2024-01-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,250
+2024-05-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,295
+2024-01-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,328
+2024-01-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Koszt reklam na Facebooku,350
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Koszt reklamy na Facebooku,375
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Koszt abonamentu,377
+2024-06-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,400
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,402
+2024-02-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,420
+2024-11-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,422
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Koszt promocji na Facebooku,437
+2024-12-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Abonament LinkedIn,439
+2024-02-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,504
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,504
+2024-11-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,508
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,511
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,511
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,515
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,516
+2024-06-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,516
+2024-12-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,516
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,517
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,517
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,518
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,519
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,520
+2024-12-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,524
+2024-11-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,528
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,528
+2024-01-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,529
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,530
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,532
+2024-06-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,539
+2024-12-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,540
+2024-11-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,545
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,556
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,562
+2024-05-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,563
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,564
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,577
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,593
+2024-12-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,594
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,594
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,595
+2024-11-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,599
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,600
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,605
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe na Facebooku,611
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,611
+2024-03-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,624
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,626
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,636
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,639
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,643
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,650
+2024-05-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,652
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,654
+2024-08-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,664
+2024-10-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,678
+2024-03-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,699
+2024-05-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,704
+2024-02-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,706
+2024-09-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,723
+2024-05-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,727
+2024-07-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Usługi reklamowe,731
+2024-12-01 00:00:00,Dział Marketingu,420-18,Koszty abonamentów i reklam online,Reklama online,1600
+2024-09-01 00:00:00,Dział Marketingu,420-20,Koszty usług IT i telekomunikacyjnych,Google Ads,5479
+2024-02-01 00:00:00,Dział Marketingu,420-25,Koszty produkcji materiałów reklamowych,Koszt produkcji plakatów.,348
+2024-09-01 00:00:00,Dział Marketingu,420-26,Koszty produkcji i druku materiałów reklam.,Koszt produkcji plakatów.,28
+2024-08-01 00:00:00,Dział Marketingu,420-26,Koszty produkcji i druku materiałów reklam.,Usługa drukowania katalogów.,776
+2024-09-01 00:00:00,Dział Marketingu,420-26,Koszty produkcji i druku materiałów reklam.,Usługa drukowania katalogów.,1418
+2024-01-01 00:00:00,Dział Marketingu,420-29,Koszty usług przewozowych,Bilety kolejowe.,61
+2024-01-01 00:00:00,Dział Marketingu,420-30,Koszty przelotów lotniczych,Opłaty lotnicze,562
+2024-03-01 00:00:00,Dział Marketingu,420-31,Koszty usług szkoleniowych i konferencyjnych,"Usługi szkoleniowe, konferencje",1256
+2024-03-01 00:00:00,Dział Marketingu,420-31,Koszty usług szkoleniowych i konferencyjnych,Usługi szkoleniowe i konferencje,1386
+2024-11-01 00:00:00,Dział Marketingu,420-31,Koszty usług szkoleniowych i konferencyjnych,Zakup kursu online.,1505
+2024-11-01 00:00:00,Dział Marketingu,420-31,Koszty usług szkoleniowych i konferencyjnych,Zakup kursu online.,1556
+2024-02-01 00:00:00,Dział Marketingu,420-32,Koszty usług noclegowych,Koszt usług noclegowych.,170
+2024-02-01 00:00:00,Dział Marketingu,420-32,Koszty usług noclegowych,Koszt usług noclegowych.,564
+2024-01-01 00:00:00,Dział Marketingu,420-35,Koszty usług gastronomicznych,Koszt usług noclegowych.,150
+2024-01-01 00:00:00,Dział Marketingu,420-35,Koszty usług gastronomicznych,Koszt usług gastronomicznych.,184
+2024-12-01 00:00:00,Dział Marketingu,420-35,Koszty usług gastronomicznych,Koszt usług gastronomicznych.,571
+2024-04-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),2770
+2024-12-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),7910
+2024-10-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),7924
+2024-07-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),8791
+2024-11-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),9203
+2024-09-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),9228
+2024-05-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),9617
+2024-08-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),10483
+2024-06-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),11907
+2024-02-01 00:00:00,Dział Marketingu,420-50,Koszty usług programistycznych,Usługi programistyczne (B2B),13660
+2024-01-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,6701
+2024-04-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,7881
+2024-05-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,11906
+2024-02-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,12491
+2024-07-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,12939
+2024-06-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,13098
+2024-12-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,15369
+2024-10-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,17174
+2024-03-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,18993
+2024-08-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,19596
+2024-11-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,20158
+2024-09-01 00:00:00,Dział Marketingu,440-01,Koszty wynagrodzeń,Koszt wynagrodzenia pracowników,20773
+2024-09-01 00:00:00,Dział Marketingu,460-02,Koszty reklam,Reklamy wizualne,512
+2024-12-01 00:00:00,Dział Marketingu,460-02,Koszty reklam,Reklama online,1020
+2024-02-01 00:00:00,Dział Marketingu,460-02,Koszty reklam,Drukowanie billboardu reklamowego,1107
+2024-01-01 00:00:00,Dział Marketingu,460-02,Koszty reklam,Reklama,1673
+2024-01-01 00:00:00,Dział Marketingu,460-02,Koszty reklam,Reklama,2998
+2024-02-01 00:00:00,Dział Marketingu,460-02,Koszty reklam,Reklama,3069
+2024-01-01 00:00:00,Dział Sprzedaży,411-05,Koszty prezentów okolicznościowych,Prezent okolicznościowy,2614
+2024-12-01 00:00:00,Dział Sprzedaży,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe,906
+2024-12-01 00:00:00,Dział Sprzedaży,420-04,Koszty usług pocztowych i kurierskich,Opłaty pocztowe,1305
+2024-05-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,4319
+2024-04-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,4855
+2024-11-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,5670
+2024-12-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,6220
+2024-09-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,8113
+2024-10-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,8178
+2024-05-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,8504
+2024-07-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,8536
+2024-08-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,8728
+2024-03-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,8945
+2024-04-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,9924
+2024-02-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,18494
+2024-12-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,20940
+2024-03-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,22557
+2024-06-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,24491
+2024-07-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,24831
+2024-10-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,25242
+2024-08-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,26584
+2024-09-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,28163
+2024-11-01 00:00:00,Dział Sprzedaży,420-08,Koszty usług konsultingowych,Usługi konsultingowe B2B,30129
+2024-02-01 00:00:00,Dział Sprzedaży,420-12,Koszty usług marketingowych,Usługi marketingowe,8288
+2024-02-01 00:00:00,Dział Sprzedaży,420-12,Koszty usług marketingowych,Usługi marketingowe,12155
+2024-04-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Koszt transportu,99
+2024-02-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Materiały biurowe,161
+2024-01-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Usługi elektroniczne /narzędzia IT,412
+2024-01-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Usługi elektroniczne /reklamowe.,424
+2024-01-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Usługi elektroniczne / narzędzia IT,661
+2024-01-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Usługi elektroniczne / narzędzia IT,675
+2024-09-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Usługi informatyczne,679
+2024-03-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Subskrypcja systemu x,759
+2024-03-01 00:00:00,Dział Sprzedaży,420-20,Koszty usług IT i telekomunikacyjnych,Usługi informatyczne,852
+2024-03-01 00:00:00,Dział Sprzedaży,420-25,Koszty produkcji materiałów reklamowych,Usługi eventowe,2068
+2024-05-01 00:00:00,Dział Sprzedaży,420-28,Koszty ubezpieczeń,Ubezpieczenie,45
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,294
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,277
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,276
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,31
+2024-02-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,74
+2024-02-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,144
+2024-02-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,157
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,216
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,216
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,218
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,253
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,303
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,323
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,328
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,336
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,348
+2024-08-01 00:00:00,Dział Sprzedaży,420-29,Koszty usług przewozowych,Bilety kolejowe,465
+2024-04-01 00:00:00,Dział Sprzedaży,420-30,Koszty przelotów lotniczych,Koszt przelotów lotniczych,249
+2024-06-01 00:00:00,Dział Sprzedaży,420-30,Koszty przelotów lotniczych,Koszt przelotów lotniczych,552
+2024-05-01 00:00:00,Dział Sprzedaży,420-30,Koszty przelotów lotniczych,Koszt przelotów lotniczych,563
+2024-06-01 00:00:00,Dział Sprzedaży,420-30,Koszty przelotów lotniczych,Koszt przelotów lotniczych,933
+2024-01-01 00:00:00,Dział Sprzedaży,420-30,Koszty przelotów lotniczych,Koszt przelotów lotniczych,1324
+2024-11-01 00:00:00,Dział Sprzedaży,420-30,Koszty przelotów lotniczych,Koszt przelotów lotniczych,1582
+2024-06-01 00:00:00,Dział Sprzedaży,420-31,Koszty usług szkoleniowych i konferencyjnych,Usługi hostingowe ,408
+2024-02-01 00:00:00,Dział Sprzedaży,420-31,Koszty usług szkoleniowych i konferencyjnych,Rejestracja na wydarzenie,580
+2024-03-01 00:00:00,Dział Sprzedaży,420-31,Koszty usług szkoleniowych i konferencyjnych,Materiały biurowe,21176
+2024-03-01 00:00:00,Dział Sprzedaży,420-31,Koszty usług szkoleniowych i konferencyjnych,Usługa noclegowa,36556
+2024-01-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,353
+2024-01-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,500
+2024-09-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,505
+2024-04-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,722
+2024-02-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,835
+2024-07-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,1456
+2024-01-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,1507
+2024-05-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,1759
+2024-09-01 00:00:00,Dział Sprzedaży,420-32,Koszty usług noclegowych,Usługa noclegowa,2960
+2024-01-01 00:00:00,Dział Sprzedaży,420-35,Koszty usług gastronomicznych,Usługi gastronomiczne,66
+2024-01-01 00:00:00,Dział Sprzedaży,420-35,Koszty usług gastronomicznych,Usługi gastronomiczne,81
+2024-01-01 00:00:00,Dział Sprzedaży,420-35,Koszty usług gastronomicznych,Usługi gastronomiczne,122
+2024-02-01 00:00:00,Dział Sprzedaży,420-50,Koszty usług programistycznych,Usługa konsultingowa,5806
+2024-01-01 00:00:00,Dział Sprzedaży,420-50,Koszty usług programistycznych,Usługa konsultingowa,6733
+2024-06-01 00:00:00,Dział Sprzedaży,420-50,Koszty usług programistycznych,Usługa konsultingowa,6861
+2024-01-01 00:00:00,Dział Sprzedaży,420-50,Koszty usług programistycznych,Usługa konsultingowa,19185
+2024-01-01 00:00:00,Dział Sprzedaży,420-88,Koszty usług tłumaczeń,Usługa przygotowania dokumentacji przetargowej,8402
+2024-01-01 00:00:00,Dział Sprzedaży,420-99,Koszty narzędzi IT,Narzędzia IT,419
+2024-05-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,5800
+2024-04-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,5927
+2024-09-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,12246
+2024-03-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,12351
+2024-01-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,13352
+2024-02-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,13368
+2024-07-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,14698
+2024-06-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,15027
+2024-08-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,16306
+2024-10-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,19517
+2024-12-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,21556
+2024-11-01 00:00:00,Dział Sprzedaży,440-01,Koszty wynagrodzeń,Koszt Wynagrodzeń,25202
+2024-07-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Koszty transportu,362
+2024-09-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Delegacja,401
+2024-01-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Delegacja,732
+2024-07-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Delegacja,751
+2024-07-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Delegacja,877
+2024-09-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Delegacja,930
+2024-06-01 00:00:00,Dział Sprzedaży,460-01,Koszty delegacji,Abonament LinkedIn,2865
