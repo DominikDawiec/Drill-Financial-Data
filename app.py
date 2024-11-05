@@ -10,7 +10,6 @@ client = OpenAI(api_key=st.secrets["OpenAI_key"])
 @st.cache_resource  
 def load_data(file_path):  
     df = pd.read_csv(file_path)  
-    df['Data'] = pd.to_datetime(df['Data'])  
     df['Miesiac'] = df['Data'].dt.to_period('M').dt.to_timestamp()  
     ordered_columns = ['Miesiac', 'Data', 'Centrum kosztów', 'Konto', 'Opis', 'Koszty']  
     return df.reindex(columns=ordered_columns)  
